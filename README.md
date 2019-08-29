@@ -47,4 +47,4 @@ After creating your `logs.json` file, simply run the script:
 python3 make.py
 ```
 
-Tada! 🎉 Your freshly minted travel blog is ready at `index.html` and can be hosted at any static website hosting service, e.g. here at GitHub.
+Tada! 🎉 Your freshly minted travel blog is ready at `index.html` and can be hosted at any static website hosting service, e.g. [here at GitHub](https://martin-martin.github.io/lazy-travel-blog/).
