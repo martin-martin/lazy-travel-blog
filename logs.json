@@ -1,17 +1,26 @@
 [
     {
         "title": "Back by boat",
-        "text": "Took the ferry through this beautiful landscape today!",
+        "text": "Took the ferry through this beautiful landscape of the Marlborough Sounds! I remembered playing soccer with a pink plastic ball with some friends and realized how it was possible that we didn't lose that ball to the sea.",
         "date": "2019-08-28",
         "tag": "marlboroughsounds"
     },
     {
         "title": "Beautifully boring hills",
-        "text": "Love hiking through my backyard hills. I used to paint them in Diebenkorn style.",
+        "text": "Love hiking through my backyard hills. In 2004 I still saw black trees from a big fire in 2000. Now the area is a protected habitat where native flora is slowly regrowing. Climbed up all the way to Mt. Vernon despite winds that were clearly stronger than me. Also: shoutout to Mr. Reeds, my art teacher. I used to paint these hills in Diebenkorn style.",
         "date": "2019-08-29",
         "tag": "witherhillsfarmpark"
     },
     {
-
+        "title": "Ghost Town",
+        "text": "I remember discovering this abandoned flax mill on a weekend bike ride back in 2004. Eerie fun back then :)",
+        "date": "2019-08-30",
+        "tag": "springcreeknewzealand"
+    },
+    {
+        "title": "Rarangi Beach",
+        "text": "This looong beach was one of my favorite final destinations for bike trips. It's a dark-pebble beach with caves and cliffs to climb around on at the side of it. It's a bit of a tease because you have to bike its full length to get to that pretty spot near the hills, but worth it.",
+        "date": "2019-08-30",
+        "tag": "rarangi"
     }
 ]
