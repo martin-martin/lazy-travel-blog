@@ -59,7 +59,7 @@ html = f"""<!DOCTYPE html>
 <body>
     <div class="container">
     <h1 class="display-1">📷 Lazy Travel Blog</h1>
-    <p>Personal travel experiences supported by pictures that other people took.</p>
+    <p class="lead">Personal travel experiences supported by pictures that other people took.</p>
 """
 
 for post in body:
