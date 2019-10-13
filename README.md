@@ -6,6 +6,8 @@ It's hard to take good pictures. Maybe--like me--you sometimes just can't be bot
 
 This **lazy travel blog builder** helps you create a travel blog by linking places you visited to Instagram hashtags.
 
+![Operating the lazy travel blog](https://gifyu.com/image/kcxW)
+
 ## Lazy lazy version
 
 Just run `make.py` (Python>3.6!):
