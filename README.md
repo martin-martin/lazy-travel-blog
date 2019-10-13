@@ -6,7 +6,7 @@ It's hard to take good pictures. Maybe--like me--you sometimes just can't be bot
 
 This **lazy travel blog builder** helps you create a travel blog by linking places you visited to Instagram hashtags.
 
-![Operating the lazy travel blog](lazy-blog.gif)
+![Operating the lazy travel blog](imgs/lazy-blog.gif)
 
 ## Lazy lazy version
 
@@ -17,6 +17,12 @@ python3 make.py
 ```
 
 And type the names of the places you went to into the command line prompt. That's it. Your `index.html` page is finished and ready to be hosted e.g. on GitHub.
+
+![Lazy lazy run](imgs/example-run.gif)
+
+![Finished minimal site example](imgs/site.png)
+
+![Linked Instagram page](imgs/insta.png)
 
 ## Less lazy version
 
